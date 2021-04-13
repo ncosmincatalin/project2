@@ -9,3 +9,4 @@ Pentru a rula aceasta etapa (in linie de comanda):
 #### 3. `npm install` (posibil sa dureze)
 
 #### 4. `npm start`
+# project2
